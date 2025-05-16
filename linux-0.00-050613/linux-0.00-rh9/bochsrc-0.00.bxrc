@@ -1,7 +1,0 @@
-display_library: term
-romimage: file=BIOS-bochs-latest
-vgaromimage: file=VGABIOS-lgpl-latest
-megs: 32
-floppya: 1_44=Image, status=inserted
-boot: a
-log: bochsout.txt
